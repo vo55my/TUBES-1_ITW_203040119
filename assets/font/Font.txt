@@ -1,0 +1,3 @@
+Font 2 : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+Font 7 : 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+Font 13 : cursive
